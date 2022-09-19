@@ -1,0 +1,15 @@
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/bin/Debug/net6.0/EverythingOnLists
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/bin/Debug/net6.0/EverythingOnLists.deps.json
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/bin/Debug/net6.0/EverythingOnLists.runtimeconfig.json
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/bin/Debug/net6.0/EverythingOnLists.dll
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/bin/Debug/net6.0/EverythingOnLists.pdb
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/EverythingOnLists.csproj.AssemblyReference.cache
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/EverythingOnLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/EverythingOnLists.AssemblyInfoInputs.cache
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/EverythingOnLists.AssemblyInfo.cs
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/EverythingOnLists.csproj.CoreCompileInputs.cache
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/EverythingOnLists.dll
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/refint/EverythingOnLists.dll
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/EverythingOnLists.pdb
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/EverythingOnLists.genruntimeconfig.cache
+/Users/elijahamoako/Projects/EverythingOnLists/EverythingOnLists/obj/Debug/net6.0/ref/EverythingOnLists.dll
