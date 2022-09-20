@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{520274DF-18A6-4A32-BD68-609286B84271}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EverythingOnLists PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.EverythingOnLists PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="EverythingOnLists/Program.cs">
     <Files>
-      <File FileName="EverythingOnLists/Program.cs" Line="15" Column="20" />
+      <File FileName="EverythingOnLists/Program.cs" Line="83" Column="25" />
+      <File FileName="EverythingOnLists/Product.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,5 +24,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
