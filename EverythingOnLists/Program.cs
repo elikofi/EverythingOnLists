@@ -85,7 +85,11 @@ productList.RemoveAt(2);
 //using the remove all method to remove some products.
 productList.RemoveAll(x => x.Price > 200);
 
-foreach (var product in productList)
+// using the the sum method to sum up the prices of all the products
+var priceSum = productList.Sum(x => x.Price);
+Console.WriteLine(priceSum);
+
+foreach (var product in productList) 
 {
     Console.WriteLine($"Name: {product.ProductName} | Code: {product.ProductCode} | Price: {product.Price}");
 }
