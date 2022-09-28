@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{520274DF-18A6-4A32-BD68-609286B84271}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="EverythingOnLists/Program.cs">
     <Files>
-      <File FileName="EverythingOnLists/Program.cs" Line="83" Column="25" />
+      <File FileName="EverythingOnLists/Program.cs" Line="90" Column="27" />
       <File FileName="EverythingOnLists/Product.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EverythingOnLists" expanded="True">
-            <Node name="EverythingOnLists" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="EverythingOnLists" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -19,11 +17,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.EverythingOnLists PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EverythingOnLists PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

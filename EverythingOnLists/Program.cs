@@ -1,5 +1,6 @@
 ﻿using EverythingOnLists;
-
+using System.Collections.Generic;
+using System.Linq;
 
 //var productList = new List<string>
 //{
@@ -65,12 +66,12 @@ var productList = new List<Product>
     }
 
 };
-//using the exists method
-var result = productList.Exists(x => x.Price > 300);
-Console.WriteLine(result); //will return false.
-//using the find method
-var pFind = productList.FindAll(x => x.Price > 100);
-Console.WriteLine(pFind);
+////using the exists method
+//var result = productList.Exists(x => x.Price > 300);
+//Console.WriteLine(result); //will return false.
+////using the find method
+//var pFind = productList.FindAll(x => x.Price > 100);
+//Console.WriteLine(pFind);
 
 /*adding a new product   */
 productList.Add(new Product
@@ -83,11 +84,12 @@ productList.Add(new Product
 productList.RemoveAt(2);
 
 //using the remove all method to remove some products.
-productList.RemoveAll(x => x.Price > 200);
+//productList.RemoveAll(x => x.Price > 200);
 
 // using the the sum method to sum up the prices of all the products
 var priceSum = productList.Sum(x => x.Price);
 Console.WriteLine(priceSum);
+
 
 foreach (var product in productList) 
 {
